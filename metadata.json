@@ -1,0 +1,6 @@
+{
+  "name": "QueuePulse",
+  "description": "Predict and beat campus queues with real-time digital tokens, anti-starvation priority scheduling, and self-correcting EWMA wait-time forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
